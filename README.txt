@@ -1,4 +1,4 @@
-﻿=== WooCommerce Shop Customizer ===
+﻿=== Woo Shop Customizer ===
 Contributors: mbj-webdevelopment
 Tags: woocommerce, customization, customizer
 Requires at least: 3.8
@@ -18,7 +18,7 @@ Easy WooCommerce Shop Customizer
 
 Automatic installation is the easiest option as WordPress handles the file transfers itself and you don't need to leave your web browser. To do an automatic install, log in to your WordPress dashboard, navigate to the Plugins menu and click Add New.
 
-In the search field type "WooCommerce Shop Customizer" and click Search Plugins. Once you've found our plugin you can view details about it such as the the rating and description. Most importantly, of course, you can install it by simply clicking Install Now.
+In the search field type "Woo Shop Customizer" and click Search Plugins. Once you've found our plugin you can view details about it such as the the rating and description. Most importantly, of course, you can install it by simply clicking Install Now.
 
 = Manual Installation =
 

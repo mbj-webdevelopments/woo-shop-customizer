@@ -2,7 +2,7 @@
 
 /**
  * @wordpress-plugin
- * Plugin Name:       WooCommerce Shop Customizer
+ * Plugin Name:       Woo Shop Customizer
  * Plugin URI:        http://localleadminer.com/
  * Description:       This plugin allow user to Customize WooCommerce Shop 
  * Version:           1.0.0
